@@ -20,4 +20,4 @@ Here is a situation where player A wins the game. Note that the number of blocks
 #### Contributors:
 - I worked on implementing the Monte Carlo Search and the Minimax algorithm.
 - [Zhihao Huang](https://github.com/zhihao2828) worked on the heuristics of the game and the Minimax algorithm. 
-- The original code for the game can be found (here)[https://github.com/comp424mcgill/Project-COMP424-2022-Winter].
+- The original code for the game can be found [here](https://github.com/comp424mcgill/Project-COMP424-2022-Winter).
