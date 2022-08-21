@@ -15,8 +15,9 @@ Throughout the game, the players are trying to create two separate closed zones,
 
 #### Examples:
 Here is a situation where player A wins the game. Note that the number of blocks in player A's zone (20 blocks) is greater than the number of blocks in player B's zone.
-[image](https://user-images.githubusercontent.com/78103711/185810666-f98ad90a-f542-4266-b76a-639a6f577e94.png)
-
+<p>
+  <img src="https://user-images.githubusercontent.com/78103711/185810666-f98ad90a-f542-4266-b76a-639a6f577e94.png">
+</p>
 #### Contributors:
 - I worked on implementing the Monte Carlo Search and the Minimax algorithm.
 - [Zhihao Huang](https://github.com/zhihao2828) worked on the heuristics of the game and the Minimax algorithm. 
