@@ -12,4 +12,5 @@ Restrictions:
 #### Game goal:
 Throughout the game, the players are trying to create two separate closed zones, with each player in each of those two zones. The player with the laregst number of blocks in their zone wins.
 
-#### Exampels
+
+[Project Description will be expanded soon!]
