@@ -9,10 +9,6 @@ import numpy as np
 
 @register_agent("pure_MCS")
 class pure_MCS(Agent):
-    """
-    A dummy class for your implementation. Feel free to use this class to
-    add any helper functionalities needed for your agent.
-    """
 
     def __init__(self):
         super(pure_MCS, self).__init__()
